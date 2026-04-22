@@ -1,3 +1,20 @@
+# 💫 About Me:
+Passionate Computer Science student focused on building real-world applications using data and backend technologies. I enjoy solving problems, exploring new tools, and turning ideas into functional systems.<br><br>
+🔭 I’m currently working on real-time and data-driven projects  
+🤝 I’m looking to collaborate on ML, analytics, and backend (Java) projects  
+🫡 I’m looking for help with scaling systems and advanced backend design  
+🌱 I’m currently learning system design, DSA, and backend architecture  
+💬 Ask me about Java, Python, SQL, and problem-solving  
+⚡ Fun fact: I sing, create digital art, and always have music playing  
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajaktachhetri/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pjk.chetri@gmail.com)
+
+---
+
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,3 +54,19 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=unforeseen18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=unforeseen18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=unforeseen18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=unforeseen18&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
