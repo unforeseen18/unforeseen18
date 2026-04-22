@@ -6,7 +6,7 @@ Passionate Computer Science student focused on building real-world applications 
 🌱 I’m currently learning system design, DSA, and backend architecture  
 💬 Ask me about Java, Python, SQL, and problem-solving  
 ⚡ Fun fact: I sing, create digital art, and always have music playing  
-
+![](https://komarev.com/ghpvc/?username=unforeseen18&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ---
 
 ## 🌐 Socials:
